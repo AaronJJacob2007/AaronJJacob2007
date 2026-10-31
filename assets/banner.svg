@@ -1,9 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Aaron Jacob — build, experiment, repeat</title><desc id="desc">A dark futuristic banner with cyan and violet geometric accents.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080c1c"/><stop offset="1" stop-color="#171030"/></linearGradient><linearGradient id="neon"><stop stop-color="#6ef9e6"/><stop offset="1" stop-color="#a879ff"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7785bf" stroke-opacity=".12"/></pattern></defs>
-<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/>
-<path d="M770 0H1200V330H855L1025 165Z" fill="#8965ff" opacity=".06"/><circle cx="1030" cy="165" r="110" fill="none" stroke="#75f9e7" stroke-opacity=".25"/><circle cx="1030" cy="165" r="82" fill="none" stroke="#aa80ff" stroke-opacity=".5"/><path d="M925 165h210M1030 60v210" stroke="#7ef9e8" stroke-opacity=".35"/><circle cx="1030" cy="165" r="32" fill="#11162e" stroke="url(#neon)" stroke-width="3"/><path d="M1016 165h28m-14-14v28" stroke="#7af7e6" stroke-width="3"/>
-<rect x="60" y="54" width="145" height="25" rx="12" fill="#122b36" stroke="#58d9d0" stroke-opacity=".6"/><text x="75" y="71" fill="#72f2df" font-family="monospace" font-size="12" letter-spacing="2">SYSTEM ONLINE</text>
-<text x="60" y="155" fill="#f4f5ff" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="2">AARON JACOB</text>
-<rect x="62" y="177" width="365" height="4" rx="2" fill="url(#neon)"/><text x="60" y="229" fill="#bfc8e5" font-family="monospace" font-size="20" letter-spacing="2">BUILD  /  EXPERIMENT  /  REPEAT</text>
-<text x="62" y="280" fill="#82e9e1" font-family="monospace" font-size="14" letter-spacing="1">SOFTWARE  ·  AI  ·  CREATIVE PROBLEM SOLVING</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">Aaron Jacob — The Build</title><desc id="d">A football awards inspired blue and gold profile banner with a custom AJ shield.</desc>
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#071538"/><stop offset=".48" stop-color="#103dbd"/><stop offset="1" stop-color="#4592fb"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#8fc9ff" stop-opacity=".65"/><stop offset="1" stop-color="#3b7fff" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4b9"/><stop offset=".2" stop-color="#c89124"/><stop offset=".43" stop-color="#fff0a1"/><stop offset=".63" stop-color="#a5680d"/><stop offset=".82" stop-color="#f9d674"/><stop offset="1" stop-color="#9a640c"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff7cd"/><stop offset=".3" stop-color="#d5a342"/><stop offset=".6" stop-color="#fff1af"/><stop offset="1" stop-color="#b37b1c"/></linearGradient>
+<pattern id="mesh" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 20 20 0" stroke="#d5e6ff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="400" fill="#081129"/><rect x="12" y="12" width="1176" height="376" fill="url(#b)" stroke="#b79752" stroke-width="2"/>
+<ellipse cx="730" cy="345" rx="650" ry="310" fill="url(#glow)"/><rect x="12" y="12" width="1176" height="376" fill="url(#mesh)"/>
+<path d="M13 313H1187V388H13Z" fill="#a7d1ff" opacity=".09"/><path d="M55 50h53M55 50v53M1145 350h-53M1145 350v-53" fill="none" stroke="#f3d587" stroke-opacity=".7" stroke-width="2"/>
+<text x="57" y="118" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="900" letter-spacing="-4">THE</text>
+<path d="M260 51h48l-16 16h-16zm38 0h27l-39 39h-27z" fill="#fff"/>
+<text x="57" y="156" fill="#e3eeff" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">AARON JACOB</text>
+<text x="52" y="245" fill="url(#metal)" font-family="Arial,Helvetica,sans-serif" font-size="119" font-weight="900" letter-spacing="-5">BUILD</text>
+<text x="59" y="282" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="4">CODE  /  CREATE  /  EXPLORE</text>
+<path d="M60 305h453" stroke="#f9d982" stroke-width="2"/><text x="60" y="340" fill="#dbe9ff" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">SOFTWARE  •  AI  •  COMPUTER VISION</text>
+<ellipse cx="973" cy="368" rx="166" ry="13" fill="#06132e" opacity=".5"/>
+<path d="M842 49 969 23 1100 49 1094 175Q1092 245 969 305 845 245 842 175Z" fill="#050e20" stroke="#d4e4fc" stroke-width="4"/>
+<path d="M855 59 969 36 1087 59 1081 172Q1078 236 969 290 860 236 857 172Z" fill="url(#gold)" stroke="#4d320b" stroke-width="4"/>
+<path d="M869 69 968 49 1073 69 1068 169Q1066 225 969 276 875 226 872 169Z" fill="#07152f" stroke="#f7da86" stroke-width="2"/>
+<path d="M882 72 968 55v212q-87-47-90-100z" fill="url(#gold)" opacity=".98"/><path d="M982 55 1061 72l-4 96q-2 55-75 99z" fill="url(#gold)"/>
+<path d="M917 211 950 92h27l32 119h-25l-6-27h-29l-6 27zm37-48h20l-10-45z" fill="#0b1630"/><path d="M1028 105h22v73q0 30-29 34l-6-19q13-3 13-17z" fill="#0b1630"/>
+<path d="M943 293h52l12 29h-76z" fill="url(#metal)" stroke="#694710" stroke-width="2"/><path d="M906 322h126l27 43H879z" fill="url(#gold)" stroke="#5e3e0b" stroke-width="3"/><path d="M970 322h62l27 43h-69z" fill="#092e93" stroke="#83aff8" stroke-width="2"/><text x="969" y="350" text-anchor="middle" fill="#111b33" font-family="Arial,sans-serif" font-size="15" font-weight="900">AJ</text>
+</svg>
