@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aaron Jacob — build, experiment, repeat](assets/build-awards-aj.svg)
+![Aaron Jacob — build, experiment, repeat](assets/build-signature.svg)
 
 ### Student developer | Full-stack applications & computer vision
 
