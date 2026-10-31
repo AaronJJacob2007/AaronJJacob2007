@@ -31,6 +31,19 @@ A responsive marketplace prototype with product filtering, a persistent cart, si
 A hands-on workshop repository with guided checkpoints for hand tracking and finger counting.  
 **Stack:** Python, OpenCV, MediaPipe, FastAPI
 
+## ✦ GitHub activity
+
+<div align="center">
+
+![GitHub statistics](https://github-stats-extended.vercel.app/api?username=AaronJJacob2007&show_icons=true&hide_rank=true&hide=stars,prs,issues,contribs&title_color=F1CE72&text_color=FFFFFF&icon_color=F1CE72&bg_color=0C2359&border_color=C89C3C)
+![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AaronJJacob2007&layout=compact&title_color=F1CE72&text_color=FFFFFF&bg_color=0C2359&border_color=C89C3C)
+
+</div>
+
+<sub>Based on public GitHub data. Language proportions reflect repository contents, not proficiency.</sub>
+
+---
+
 ## ✦ Technical skills
 
 ![Python](https://img.shields.io/badge/Python-0C2359?style=for-the-badge&logo=python&logoColor=F1CE72)
