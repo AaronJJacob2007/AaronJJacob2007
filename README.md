@@ -2,9 +2,9 @@
 
 ![Aaron Jacob — build, experiment, repeat](assets/build-awards-aj.svg)
 
-### The build is always in progress.
+### Student developer | Full-stack applications & computer vision
 
-**Software development  •  AI exploration  •  Product thinking**
+Building practical software with Python, React and modern web technologies.
 
 [![GitHub](https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-11265B?style=for-the-badge&logo=github&logoColor=white&labelColor=071A42&color=C89C3C)](https://github.com/AaronJJacob2007?tab=repositories)
 [![CaseBridge](https://img.shields.io/badge/TRY-CASEBRIDGE-11265B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A42&color=C89C3C)](https://casebridge-rho.vercel.app/)
@@ -13,28 +13,25 @@
 
 ---
 
-## ✦ The player profile
+## ✦ About me
 
-I'm **Aaron**, a student developer who enjoys turning challenging ideas into practical, interactive experiences. I work across web apps, Python and computer vision, and I like learning by building and sharing.
+I'm **Aaron Jacob**, a student developer interested in software engineering, AI and computer vision. I build web applications and hands-on prototypes, with experience across frontend interfaces, Python APIs and databases.
 
-```text
-currently exploring  →  software engineering, AI & computer vision
-building with        →  Python, React, TypeScript & FastAPI
-approach             →  prototype, test, learn, improve
-```
-
-## ✦ The starting lineup
+## ✦ Featured projects
 
 ### [CaseBridge](https://github.com/AaronJJacob2007/CaseBridge)  ·  [Live demo ↗](https://casebridge-rho.vercel.app/)
-A Smart India Hackathon prototype that helps teams review related institutional complaints and coordinate follow-ups. **React · FastAPI · PostgreSQL**
+A Smart India Hackathon prototype for reviewing related institutional complaints and coordinating follow-ups across teams. Includes case management, cross-bureau comparisons and reporting.  
+**Stack:** React, FastAPI, PostgreSQL
 
 ### [ReLoop](https://github.com/AaronJJacob2007/reloop-product-design)  ·  [Live demo ↗](https://reloop-product-design.vercel.app/)
-A sustainable marketplace prototype with a responsive storefront, installable PWA and simulated shopping journey. **React · TypeScript · Vite**
+A responsive marketplace prototype with product filtering, a persistent cart, simulated checkout and offline PWA support.  
+**Stack:** React, TypeScript, Vite
 
 ### [Computer Vision Workshop](https://github.com/AaronJJacob2007/AIDL-Forge-2026-Computer-Vision)
-A hands-on workshop repository exploring hand tracking and finger counting with **Python · OpenCV · MediaPipe**.
+A hands-on workshop repository with guided checkpoints for hand tracking and finger counting.  
+**Stack:** Python, OpenCV, MediaPipe, FastAPI
 
-## ✦ The toolkit
+## ✦ Technical skills
 
 ![Python](https://img.shields.io/badge/Python-0C2359?style=for-the-badge&logo=python&logoColor=F1CE72)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0C2359?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
