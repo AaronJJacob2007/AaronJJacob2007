@@ -1,6 +1,6 @@
 <div align="center">
 
-![Aaron Jacob — build, experiment, repeat](assets/banner.svg)
+![Aaron Jacob — build, experiment, repeat](assets/build-awards.svg)
 
 ### The build is always in progress.
 
