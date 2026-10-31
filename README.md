@@ -2,18 +2,18 @@
 
 ![Aaron Jacob — build, experiment, repeat](assets/banner.svg)
 
-### Building ideas into things people can actually use.
+### The build is always in progress.
 
-**Software development · AI exploration · Product thinking**
+**Software development  •  AI exploration  •  Product thinking**
 
-[![GitHub](https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-101527?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=7658da)](https://github.com/AaronJJacob2007?tab=repositories)
-[![CaseBridge](https://img.shields.io/badge/TRY-CASEBRIDGE-101527?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827&color=168d8b)](https://casebridge-rho.vercel.app/)
+[![GitHub](https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-11265B?style=for-the-badge&logo=github&logoColor=white&labelColor=071A42&color=C89C3C)](https://github.com/AaronJJacob2007?tab=repositories)
+[![CaseBridge](https://img.shields.io/badge/TRY-CASEBRIDGE-11265B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=071A42&color=C89C3C)](https://casebridge-rho.vercel.app/)
 
 </div>
 
 ---
 
-## ⚡ About me
+## ✦ The player profile
 
 I'm **Aaron**, a student developer who enjoys turning challenging ideas into practical, interactive experiences. I work across web apps, Python and computer vision, and I like learning by building and sharing.
 
@@ -23,7 +23,7 @@ building with        →  Python, React, TypeScript & FastAPI
 approach             →  prototype, test, learn, improve
 ```
 
-## 🚀 Featured builds
+## ✦ The starting lineup
 
 ### [CaseBridge](https://github.com/AaronJJacob2007/CaseBridge)  ·  [Live demo ↗](https://casebridge-rho.vercel.app/)
 A Smart India Hackathon prototype that helps teams review related institutional complaints and coordinate follow-ups. **React · FastAPI · PostgreSQL**
@@ -34,22 +34,22 @@ A sustainable marketplace prototype with a responsive storefront, installable PW
 ### [Computer Vision Workshop](https://github.com/AaronJJacob2007/AIDL-Forge-2026-Computer-Vision)
 A hands-on workshop repository exploring hand tracking and finger counting with **Python · OpenCV · MediaPipe**.
 
-## 🛠️ Tools in my orbit
+## ✦ The toolkit
 
-![Python](https://img.shields.io/badge/Python-172033?style=for-the-badge&logo=python&logoColor=75E6DB)
-![JavaScript](https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-172033?style=for-the-badge&logo=typescript&logoColor=7DB7FF)
-![React](https://img.shields.io/badge/React-172033?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-172033?style=for-the-badge&logo=fastapi&logoColor=75E6DB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172033?style=for-the-badge&logo=postgresql&logoColor=9CBFFF)
-![OpenCV](https://img.shields.io/badge/OpenCV-172033?style=for-the-badge&logo=opencv&logoColor=F5F5FF)
-![Git](https://img.shields.io/badge/Git-172033?style=for-the-badge&logo=git&logoColor=FF9C83)
+![Python](https://img.shields.io/badge/Python-0C2359?style=for-the-badge&logo=python&logoColor=F1CE72)
+![JavaScript](https://img.shields.io/badge/JavaScript-0C2359?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0C2359?style=for-the-badge&logo=typescript&logoColor=F1CE72)
+![React](https://img.shields.io/badge/React-0C2359?style=for-the-badge&logo=react&logoColor=F1CE72)
+![FastAPI](https://img.shields.io/badge/FastAPI-0C2359?style=for-the-badge&logo=fastapi&logoColor=F1CE72)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C2359?style=for-the-badge&logo=postgresql&logoColor=F1CE72)
+![OpenCV](https://img.shields.io/badge/OpenCV-0C2359?style=for-the-badge&logo=opencv&logoColor=F1CE72)
+![Git](https://img.shields.io/badge/Git-0C2359?style=for-the-badge&logo=git&logoColor=F1CE72)
 
 ---
 
 <div align="center">
 
-**Curious by default. Building in progress.** ✦
+**Build with purpose. Keep improving.** ✦
 
 <sub>Thanks for stopping by — take a look around.</sub>
 
