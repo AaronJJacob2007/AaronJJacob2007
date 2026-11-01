@@ -2,7 +2,7 @@
 
 ![Aaron Jacob — build, experiment, repeat](assets/build-champions-cup.svg)
 
-### Student developer | Full-stack applications & computer vision
+### Student developer | Full-stack applications
 
 Building practical software with Python, React and modern web technologies.
 
